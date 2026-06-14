@@ -1,16 +1,17 @@
-## Hi there 👋
+# Andrew Castor
 
-<!--
-**osakhra/osakhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure & security engineer. 2+ years deploying healthcare IT 
+and secure networks in production and austere field environments.
 
-Here are some ideas to get you started:
+🩺 **Featured project:** Offline-capable EMR deployment for Medical 
+Mission of Divine Mercy — Costa Rica field deployment (April 2026), 
+50,000 sq ft Wi-Fi 6 mesh, RBAC/TLS hardening, 50+ users trained.
+Full case study → [andrewcastor.dev](https://andrewcastor.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently: Fall 2026 UCF INFOTEC-BS (NSA CAE-CD), open to cloud 
+security / infrastructure roles
+
+🔗 [Portfolio](https://andrewcastor.dev) · [LinkedIn](https://linkedin.com/in/jandrewcastor) · JohnAndrewCastor@gmail.com
+
+## Tech Stack
+[badges row: Azure, Python, Linux, PowerShell, SQL, C#, OpenEMR-adjacent]
